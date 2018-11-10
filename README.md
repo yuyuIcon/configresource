@@ -1,0 +1,2 @@
+# configresource
+配置
